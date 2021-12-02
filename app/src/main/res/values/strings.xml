@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgeApp</string>
+    <string name="your_age">Your age:</string>
+    <string name="powered_by_neelesh">Powered by Neelesh</string>
+    <string name="enter_your_dob">Enter your DOB</string>
+    <string name="enter">Enter:</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_birth_year">Enter your birth year</string>
+</resources>
